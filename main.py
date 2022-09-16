@@ -4,3 +4,4 @@ print("GGwp")
 a = 4 + 5
 b = 3 * a
 print ("b =",b)
+print(b+a**b)
